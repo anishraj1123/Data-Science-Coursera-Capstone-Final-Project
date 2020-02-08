@@ -1,6 +1,6 @@
 # Coursera Data Science Capstone Final Project Submission
 
-<a href="http://rpubs.com/parimi/416573" target="_blank">Presentation</a>
+<a href="" target="_blank">Presentation</a>
 
 <a href="https://anishraj.shinyapps.io/WordPredictor/" target="_blank">Next Word Predictor App</a>
 
